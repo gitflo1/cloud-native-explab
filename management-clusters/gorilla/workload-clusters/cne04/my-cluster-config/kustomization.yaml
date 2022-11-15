@@ -5,7 +5,6 @@ metadata:
 resources:
 - ./observability/prometheus-community-source.yaml
 - ./observability/grafana-charts-source.yaml
-- ./observability/promtail-release.yaml
 - ./observability/tempo-release.yaml
 - ./observability/loki-release.yaml
 - ./observability/kube-prometheus-stack.yaml
